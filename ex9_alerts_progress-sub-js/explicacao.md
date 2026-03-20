@@ -88,4 +88,4 @@ Este exercício demonstra a integração de múltiplos componentes Bootstrap com
 - **Usabilidade:**
   - Interface intuitiva com botões claros
   - Feedback visual consistente
-  - Animações suaves para melhor experiência
+  - Animações suaves para melhor experiência 
